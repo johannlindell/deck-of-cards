@@ -1,0 +1,21 @@
+{
+    "name": "johann-lindell/deck-of-cards",
+    "description": "Standard 52-card deck",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JohannLindell\\DeckOfCards\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jóhann Lindell",
+            "email": "johannlindell@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
